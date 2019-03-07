@@ -48,7 +48,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "react": "latest",
+    "react": "^16.8.4",
     "react-dom": "latest",
     "react-router": "latest",
     "react-redux": "latest",
