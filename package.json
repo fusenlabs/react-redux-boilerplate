@@ -22,7 +22,7 @@
   "devDependencies": {
     "babel-core": "^6.3.26",
     "babel-eslint": "^5.0.0-beta6",
-    "babel-jest": "^13.0.0",
+    "babel-jest": "^25.5.1",
     "babel-loader": "^6.2.0",
     "babel-polyfill": "^6.9.1",
     "babel-preset-es2015": "^6.3.13",
